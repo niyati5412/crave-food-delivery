@@ -7,14 +7,13 @@ A full-stack, real-time food delivery platform built as a college group project.
 ---
 
 ## 👥 Group Members
-*(Add your names and roll numbers here)*
 
-| Name | Role / Contribution |
-|------|-------------------|
-| Niyati | Full Stack, Admin Dashboard, Auth, Order Lifecycle |
-| [Member 2] | [Contribution] |
-| [Member 3] | [Contribution] |
-| [Member 4] | [Contribution] |
+| Roll No. | Name | Contribution & Focus Area |
+|----------|------|---------------------------|
+| **2410991296** | **Niyati Gupta** | Full Stack Architecture, Super Admin Governance, Auth & Role Isolation, Order Lifecycle State Machine |
+| **2410991295** | **Nitika Chohan** | Frontend UI/UX Engineering, Responsive Customer Experience, Interactive Cart & Checkout Flow |
+| **2410991100** | **Jainisha Jain** | Restaurant Kitchen Display System (KDS), Menu & Category Management, Preparation Timers |
+| **2410991133** | **Komal Kaur** | Delivery Fleet Console, Geospatial Partner Dispatch, Live GPS Telemetry & Doorstep OTP Handover |
 
 ---
 
