@@ -11,7 +11,7 @@ A full-stack, real-time food delivery platform built as a college group project.
 
 | Name | Role / Contribution |
 |------|-------------------|
-| Niyati | Full Stack, Admin Dashboard, Auth, Order Lifecycle |
+| Niyati |  |
 | [Member 2] | [Contribution] |
 | [Member 3] | [Contribution] |
 | [Member 4] | [Contribution] |
