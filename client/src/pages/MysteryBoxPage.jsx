@@ -419,7 +419,28 @@ export default function MysteryBoxPage() {
                   </button>
                 </div>
               </>
-            ) : null}
+            ) : (
+              <div className="py-16 flex flex-col items-center justify-center text-center space-y-4">
+                <div className="w-16 h-16 rounded-3xl bg-amber-500/10 border border-amber-400/40 flex items-center justify-center text-amber-600">
+                  <Gift className="w-8 h-8" />
+                </div>
+                <div className="space-y-1">
+                  <h3 className="font-serif font-bold text-lg text-charcoal-900">
+                    Vault Ready to Unveil
+                  </h3>
+                  <p className="text-xs text-stone-500 max-w-sm">
+                    Select your preferred dietary guard and budget tier on the left, then spin the roulette to generate your curated mystery tasting feast.
+                  </p>
+                </div>
+                <button
+                  type="button"
+                  onClick={handleSpinRoulette}
+                  className="px-6 py-2.5 rounded-xl bg-gradient-to-r from-amber-500 to-citrus-500 text-charcoal-950 font-bold text-xs uppercase tracking-wider hover:from-amber-400 hover:to-citrus-400 transition-all cursor-pointer shadow-md"
+                >
+                  Spin Roulette & Unlock Vault
+                </button>
+              </div>
+            )}
 
           </div>
         </div>
